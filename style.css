@@ -9,7 +9,7 @@ html, body {
 }
 
 /* task 11: add flexbox to the div with a class named navBar.*/
-.navb=Bar {
+.navBar {
   display: flex;
 }
 
@@ -28,7 +28,7 @@ a {
 .companies {
   display: flex;
   justify-content: space-around;
-  border: 7px double white;
+  border: 7px dotted #90beea;
 }
 
 .home {
@@ -36,7 +36,7 @@ a {
 }
 
 .student {
-  border: 5px double white;
+  border: 5px solid #90beea;
   width: 300px;
   text-align: center;
 }
